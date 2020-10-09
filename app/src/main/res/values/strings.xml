@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EventoTesteDev</string>
+    <string name="google_maps_key">AIzaSyDIuR-0NwIl2flH_OwDLFN0MtxiLZNyvvQ</string>
+    <string name="check_in">Check-in</string>
+    <string name="your_name">Seu nome</string>
+    <string name="checkin_button">Fazer Check-in</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Nome</string>
+    <string name="your_email">Seu e-mail</string>
+    <string name="location">Localização</string>
+    <string name="event_image">imagem do evento</string>
+    <string name="button_people">Pessoas</string>
+    <string name="lista_de_eventos">LIsta de Eventos</string>
+    <string name="valor">R$ %1$s</string>
+    <string name="info">Descrição</string>
+
+</resources>
